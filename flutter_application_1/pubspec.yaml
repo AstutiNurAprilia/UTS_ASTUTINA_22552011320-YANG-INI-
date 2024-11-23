@@ -1,0 +1,30 @@
+name: astuti_gallery_books
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  fluttertoast: ^8.2.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - image/default_profile.png
+    - image/icon_login.png
+    - image/48P.png
+    - image/AH.png
+    - image/BIAS.png
+    - image/PM.png
+    - image/TAGG.png
+    - image/TKSON.png
